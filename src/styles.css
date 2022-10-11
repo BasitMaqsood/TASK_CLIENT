@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.name {
+  color: blue;
+  cursor: pointer;
+}
+
+.highlighted {
+  background-color: yellow;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.selected {
+  background-color: yellow;
+}
